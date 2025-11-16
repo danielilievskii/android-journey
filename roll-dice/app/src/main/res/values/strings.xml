@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dice2_score">0</string>
+    <string name="roll_dice_label">Roll dice</string>
+    <string name="reset">Reset</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="gameInfo"><![CDATA[Roll both dices and score > 7]]></string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="back">Back</string>
+</resources>
